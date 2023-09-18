@@ -1,0 +1,29 @@
+.navbar{
+    background-color: beige;
+}
+
+#carouselExample{
+    width: 70%;
+    margin: 0 auto;
+} 
+
+.carousel-item img{
+    height: 500px;
+}
+
+.text-center{
+    text-align: center;
+}
+
+i{
+    font-size: 40px;
+    /* color: lightcoral; */
+}
+
+.bi-linkedin{
+    color: lightblue;
+}
+
+.bi-instagram {
+    color: lightcoral;
+}
