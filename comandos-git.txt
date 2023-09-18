@@ -33,3 +33,11 @@ Sirve para moverse entre ramas
 
 10. git branch -D nombredelarama
 Sirve para borrar una rama
+
+11. git merge nombredelarama
+Fusiona los cambios de una rama dentro de la rama principal
+Tener en cuenta para hacer el merge
+
+a. La rama no debe tener add ni commits pendientes
+b. Debemos movernos a la rama principal, pues la fusion o merge no funciona desde una rama
+
