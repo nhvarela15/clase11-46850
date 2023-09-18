@@ -15,3 +15,21 @@ Con este le decimos a git que guarde todos los archivos nuevos que detecte
 
 4.  git commit -m "mensaje indicativo del cambio"
 Con este cambio confirmamos todos los cambios que hicimos hasta el momento
+
+5. git log
+Genera un historial completo de los ultimos cambios realizados
+
+6. git log --oneline
+Genera un historial resumido
+
+7. git branch 
+Consulta las ramas disponibles
+
+8. git branch nombrecualquiera
+Crea una rama con el nombre que le asignen
+
+9. git checkout nombredelarama
+Sirve para moverse entre ramas
+
+10. git branch -D nombredelarama
+Sirve para borrar una rama
